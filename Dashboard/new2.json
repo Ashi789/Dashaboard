@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "cobalt-maxim-445213-g8",
+  "private_key_id": "3b891256a22db2b143374a74d692602c17a8ac4b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCq9PxADbNtTNVt\nun/HQdbwUoYZHd7TQ0rdnxOAaMCapRKhGDlHOPXNBjqxhblW1G6PXKSeDEy6YKCM\nM0u9veNxsc6XORXrWG7GrKZe/reKAJnN2IlT6PT2tZgA+s0KJ5yMhbIjOjFUQ9Ez\n6AgZpJmlvJ6LVgOU7acEEWW82HEH1P9rTlWBqKac0d8Wwfez9gwZPmDTFb09gFWX\n2Gehw6nD5M3IokbMwQk5Ufy/AEfqoj+2sl525zX2XAGHepznRu5C7Q4OhZ572/Yz\nAuqQ0FgyQn3Ll2rb4d5wk/QQ5Wz9tErHFutaQCYPFLmzX1ZRf67rsCXCfjS6zpuX\ndVbZzVvdAgMBAAECggEABR+KX7EJa4Ed9EfehG4ortMKSb5naxVdLP8Taom5G+lO\ngZ1kOgou85H4OFG1mDCNj6ZLGKFtuzgiF5GB95G1OzcE5etECOWBjFqoMbiYb35N\nHaobk3Qrwyj2ATGC64b8XgmzqPKZf9j4cAHIHFyebiUU60AMo23rz2dmER67ZGyl\nH1fB2qFI3YSHEEGyPWfoZenV6b0+hVT15cKGWmtI7xI0kZLoy0XAuzMkqvVk25ME\nydZLL57gzJWz9dbpzT+YIabAgX5gFArefvsVurfEwtqJ1m9Wg6lBTzZT2KwK0HGJ\nYSVPXW0IgQiEAlU4JpEWQXg5RKC0roA6ZRhTwrasAQKBgQDX+g04k7cADQY6AXW3\nowm4ln+Z5zv1J+2CgJKSnYPxGH3Dix46rTFOuvJsa0xELHONiVEgD/162KSIhRKF\n2h9kExaL4cWcvG7lnMfZhr79rKAJBkhfiFJUQuMOaPevNRp9b3EhiII4ILVnlhvs\nEB0zy1miv/QPavWUsOzmmLmdwQKBgQDKozFQwb0OeTHCsy2vPPX/VJJ7YDq5q8zM\nes1gn+3ywe8rHceEzNnDwSB+U283O9ovMraeFlnGIpq5uIRKpbz/VgtomE0Y5Rpa\n51xXtnNxHwNX97rY4e3IrwqysM6GdBc34GvZGq8UPohf0gYW3JiZCI1r9T9qwm8R\nrVjhhQ+9HQKBgQCdZjzQaMbLoLJS/9FcvdNN1VC1RxIpPqoXm8A2XdlUkfbF1dN4\nC9SNfi1C2ofAf2zPT63x4fVn3A88905igm6yLj8WProX2jQv3qy/WTZEBdSz/wIr\nrVvi0MRNMi6gX+EoXVljiOruINhT39AFoFDH+IEg3SfvPJIxhSeBfvh3gQKBgHyU\nwGkJ85XGZRVy2491RzhnYnd/vhsQyKSei03whXZOTSCQ+m1nFCsJvVRtL18h6Q5D\ne4rN6vupor6z9oF+TCgfWnw/xoabtAxXWaqDfY36py+aGsHkhTBwjX82vIJlNTEh\nRK0BfspPd8CRezTrAtZzL59D9G1KhMa1cIOWLwrxAoGAbZPSm6uW534jMm1cBDG5\nX5K9U5wqaAHsy9AG+BeQ1dczJgDEhp8qBXdA3qgtiJLv0HYXYHDs2I6ILgEXyRs9\nvUmIH/9XAuYvJXlborYQ4NQkY8ZaEigRdinwHJ/d54DgLRPyH7Zf7DVH1fVzNd5u\nKS0J+oxHbKZ7maaq88gQDN8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "noor-484@cobalt-maxim-445213-g8.iam.gserviceaccount.com",
+  "client_id": "112077214488382569405",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/noor-484%40cobalt-maxim-445213-g8.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
